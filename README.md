@@ -5,3 +5,5 @@ Você tem uma classe chamada Solution e uma classe interna chamada Inner.Private
 Sua tarefa é chamar o método powerof2 da classe Inner.Private a partir do método principal da classe Solution.
 
 ## Restrições:
+
+### Exemplo de Entrada:
