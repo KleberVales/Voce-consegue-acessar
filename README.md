@@ -7,3 +7,9 @@ Sua tarefa é chamar o método powerof2 da classe Inner.Private a partir do mét
 ## Restrições:
 
 ### Exemplo de Entrada:
+![imagens/img1.png](imagens/img1.png)
+
+### Exemplo de Saída:
+![imagens/img2.png](imagens/img2.png)
+
+
